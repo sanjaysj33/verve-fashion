@@ -55,7 +55,7 @@ export function Navbar({ cartCount, onCartClick, onShopClick, onAccountClick, on
           </div>
 
           <div className="absolute left-1/2 -translate-x-1/2">
-            <h1 className="text-2xl font-serif italic tracking-tighter font-bold cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}> Elite Aura </h1>
+            <h1 className="text-2xl font-serif italic tracking-tighter font-bold cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>Elite Aura</h1>
           </div>
 
           <div className="flex items-center gap-4">
