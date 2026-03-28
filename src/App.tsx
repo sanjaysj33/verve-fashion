@@ -249,7 +249,7 @@ export default function App() {
               <a href="#" onClick={(e) => { e.preventDefault(); toast.info('Returns Policy coming soon'); }} className="hover:text-black transition-colors">Returns</a>
             </div>
             <p className="text-[10px] text-gray-400 uppercase tracking-widest">
-              © 2026 Verve Fashion. All rights reserved.
+              © 2026 Elite Aura Fashion Store. All rights reserved.
             </p>
           </div>
         </div>
