@@ -191,7 +191,7 @@ export default function App() {
               viewport={{ once: true }}
               className="max-w-2xl mx-auto"
             >
-              <h2 className="text-3xl font-serif italic mb-6">Join the Verve Circle</h2>
+              <h2 className="text-3xl font-serif italic mb-6">Join the Elite Aura Circle</h2>
               <p className="text-gray-500 mb-10">
                 Subscribe to receive early access to new collections, styling tips, and exclusive events.
               </p>
